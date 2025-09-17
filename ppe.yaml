@@ -1,0 +1,14 @@
+path: /home/ose/Documents/ppe-detection
+train: train/images
+val: val/images
+
+nc: 7
+names:
+  0: person
+  1: helmet
+  2: safety-vest
+  3: glasses
+  4: gloves
+  5: face-mask
+  6: shoes
+
