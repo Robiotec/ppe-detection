@@ -4,11 +4,10 @@ val: val/images
 
 nc: 7
 names:
-  0: person
-  1: helmet
-  2: safety-vest
-  3: glasses
-  4: gloves
-  5: face-mask
-  6: shoes
-
+  0: persona
+  1: casco
+  2: chaleco-seguridad
+  3: gafas
+  4: guantes
+  5: mascarilla
+  6: zapatos
