@@ -1,4 +1,4 @@
-path: /home/robiotec/Documents/ppe-detection
+path: /home/ose/Documents/ppe-detection
 train: train/images
 val: val/images
 
