@@ -13,8 +13,9 @@ dependencies = [
     "torch>=2.8.0",
     "torchvision>=0.15.2",
     "transformers>=4.56.1",
-    "pypylon>=4.2.0",   
+    "pypylon>=4.2.0",
     "ultralytics>=8.3.14",
+    "opencv-python>=4.11.0.86",
 ]
 
 [[tool.uv.index]]
