@@ -4,7 +4,7 @@ from ultralytics import YOLO
 
 def main():
     model_path = "/home/robiotec/Documents/ppe-detection/src/PPE_yolo11n/weights/best.pt"
-    video_path = "/home/robiotec/Documents/ppe-detection/src/test.mp4"
+    video_path = "/home/robiotec/Documents/ppe-detection/src/video_test.mp4"
 
     model = YOLO(model_path)
     cap = cv2.VideoCapture(video_path)
